@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hersephone
 - 👀 I’m interested in writing, coding and writing code
-- 🌱 I know how to work in: Python, Java, C, C++, SQL and Lisp
+- 🌱 I know how to work in: Python, Java, C, C++, SQL and Javascript/HTML/CSS
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm working on a searchable Pokédex
